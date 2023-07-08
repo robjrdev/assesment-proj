@@ -1,0 +1,2 @@
+module UserEditableTextsHelper
+end

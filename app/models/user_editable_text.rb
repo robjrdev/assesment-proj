@@ -1,0 +1,2 @@
+class UserEditableText < ApplicationRecord
+end
